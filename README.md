@@ -1,2 +1,2 @@
-# Some_CPP_Projects-
+# Some_CPP_Projects
 boring projects
