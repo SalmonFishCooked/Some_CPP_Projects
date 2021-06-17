@@ -1,7 +1,5 @@
 #include "GameInstance.h"
 
-using namespace std;
-
 int main()
 {
 	GameInstance game;
