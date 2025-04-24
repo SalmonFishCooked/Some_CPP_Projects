@@ -2,7 +2,7 @@
 
 ## 👾 Gameplay
 
-The apperance of this game is as follows:
+The appearance of this game is as follows:
 
 ![gameplay](./assets/gameplay.gif)
 
