@@ -1,7 +1,7 @@
 #include "GameInstance.h"
 
-int main()
-{
+int main() {
 	GameInstance game;
-	return game.Game_Start_UI();
+	
+	return game.gameStartUi();
 }
